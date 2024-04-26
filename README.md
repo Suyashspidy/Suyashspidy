@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Prompts, Artificial Intelligence and Complex Machine Learning Algorithms**
 
-- 📫 How to reach me **suyashsaxena015@ucr.edu**
+- 📫 How to reach me **suyashsaxena015@gmail.com**
 
 - ⚡ Fun fact **I once got lost in a library for 3 hours because I was too busy reading books.**
 
