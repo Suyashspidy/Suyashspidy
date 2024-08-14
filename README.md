@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://mintbook.com/assetsNew/img/finance.gif">
 <h1 align="center">Hi 👋, I'm Suyash saxena</h1>
-<h3 align="center">Machine Learning Engineer | Data Analyst | Passionate about using data to solve real-world problems</h3>
+<h3 align="center"> Data Scientist | Data Analyst | Product Analytics Passionate about using data to solve real-world problems</h3>
 
 - 🌱 I’m currently learning **Generative AI, Prompt Engineering, Machine Learning Algorithms**
 
